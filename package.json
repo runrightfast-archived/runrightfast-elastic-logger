@@ -1,6 +1,6 @@
 {
 	"name":"runrightfast-elastic-logger",
-	"version":"0.0.1",
+	"version":"0.0.2",
 	"description":"RunRightFast Logger that logs to elasticsearch",
 	"repository":{
 		"type":"git",
