@@ -1,6 +1,6 @@
 {
 	"name":"runrightfast-elastic-logger",
-	"version":"0.0.2",
+	"version":"0.0.3",
 	"description":"RunRightFast Logger that logs to elasticsearch",
 	"repository":{
 		"type":"git",
@@ -24,7 +24,7 @@
 		"extend":"1.2.x",
 		"joi":"1.2.x",
 		"runrightfast-commons":"git://github.com/runrightfast/runrightfast-commons.git#0.0.16",
-		"runrightfast-elasticsearch":"git://github.com/runrightfast/runrightfast-elasticsearch#0.0.2",
+		"runrightfast-elasticsearch":"git://github.com/runrightfast/runrightfast-elasticsearch#0.0.3",
 		"runrightfast-logging-service":"git://github.com/runrightfast/runrightfast-logging-service.git#0.0.17"		
 	},
 	"devDependencies":{
